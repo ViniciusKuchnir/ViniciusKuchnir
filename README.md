@@ -9,7 +9,7 @@
 <h2 style='font-weight: bold'>O que estou aprendendo atualmente</h2>
 
 
-<p style='font-weight: bold'>PUCPR - Pontifícia Universidade Católica do Paraná</p>
+<h3 style='font-weight: bold'>PUCPR - Pontifícia Universidade Católica do Paraná</h3>
 <ul>
     <li>Resolução de Problemas Estruturados em Computação</li>
     <li>Fundamentos de Sistemas CiberFísicos</li>
@@ -18,7 +18,7 @@
     <li>Experiência Criativa: Projetando Soluções Computacionais</li>
 </ul>
 
-<p style='font-weight: bold'>Pessoalmente</p>
+<h3 style='font-weight: bold'>Pessoalmente</h3>
 <ul>
     <li>React Native</li>
     <li>ReactJS</li>
