@@ -46,8 +46,8 @@
 
 <div style='display: inline_block'>
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=Encomenda)](https://github.com/ViniciusKuchnir)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=Kifila)](https://github.com/ViniciusKuchnir)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=Encomenda)](https://github.com/ViniciusKuchnir/Encomenda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=Kifila)](https://github.com/ViniciusKuchnir/Kifila)
 
 </div>
 
