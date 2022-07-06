@@ -18,6 +18,12 @@
     <li>Experiência Criativa: Projetando Soluções Computacionais</li>
 </ul>
 
+<p style='font-weight: bold'>Pessoalmente</p>
+<ul>
+    <li>React Native</li>
+    <li>ReactJS</li>
+</ul>
+
 <h2 style='font-weight: bold'>Alguns dados sobre o meu Github</h2>
 
 ![Vinícius Kuchnir](https://github-readme-stats.vercel.app/api?username=ViniciusKuchnir&show_icons=true&theme=dark)
