@@ -42,12 +42,13 @@
     <img aling='center' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
 </div>
 
-<h2 style='font-weight: bold'>Os meus últimos 2 trabalhos públicos</h2>
+<h2 style='font-weight: bold'>Os meus últimos 3 trabalhos públicos</h2>
 
 <div style='display: inline_block'>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=Encomenda)](https://github.com/ViniciusKuchnir/Encomenda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=Kifila)](https://github.com/ViniciusKuchnir/Kifila)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=Financa)](https://github.com/ViniciusKuchnir/Financa)
 
 </div>
 
