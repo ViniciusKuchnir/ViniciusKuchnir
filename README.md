@@ -11,11 +11,11 @@
 
 <h3 style='font-weight: bold'>PUCPR - Pontifícia Universidade Católica do Paraná</h3>
 <ul>
-    <li>Resolução de Problemas Estruturados em Computação</li>
-    <li>Fundamentos de Sistemas CiberFísicos</li>
-    <li>Banco de Dados</li>
-    <li>Criação de Modelos de Soluções Computacionais</li>
-    <li>Experiência Criativa: Projetando Soluções Computacionais</li>
+    <li>Verificação e Validação</li>
+    <li>Conectividade de Sistemas CiberFísicos</li>
+    <li>Big Data/li>
+    <li>Design de Software</li>
+    <li>Qualidade de Software</li>
 </ul>
 
 <h3 style='font-weight: bold'>Pessoalmente</h3>
