@@ -13,7 +13,7 @@
 <ul>
     <li>Verificação e Validação</li>
     <li>Conectividade de Sistemas CiberFísicos</li>
-    <li>Big Data/li>
+    <li>Big Data</li>
     <li>Design de Software</li>
     <li>Qualidade de Software</li>
 </ul>
