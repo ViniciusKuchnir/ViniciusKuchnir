@@ -11,11 +11,11 @@
 
 <h3 style='font-weight: bold'>PUCPR - Pontifícia Universidade Católica do Paraná</h3>
 <ul>
-    <li>Verificação e Validação</li>
-    <li>Conectividade de Sistemas CiberFísicos</li>
-    <li>Big Data</li>
-    <li>Design de Software</li>
-    <li>Qualidade de Software</li>
+    <li>Gestão de Equipes de Alto Desempenho</li>
+    <li>Gestão de Projetos de TI</li>
+    <li>Métodos de Pesquisa em Computação</li>
+    <li>Experiência Criativa: Inovando em Processos de TI</li>
+    <li>Performance de Sistemas CiberFísicos</li>
 </ul>
 
 <h3 style='font-weight: bold'>Pessoalmente</h3>
