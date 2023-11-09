@@ -9,13 +9,12 @@
 <h2 style='font-weight: bold'>O que estou aprendendo atualmente</h2>
 
 
-<h3 style='font-weight: bold'>PUCPR - Pontifícia Universidade Católica do Paraná</h3>
+<h3 style='font-weight: bold'>(Intercâmbio Acadêmico) ISEP - Instituto Superior de Engenharia do Porto</h3>
 <ul>
-    <li>Gestão de Equipes de Alto Desempenho</li>
-    <li>Gestão de Projetos de TI</li>
-    <li>Métodos de Pesquisa em Computação</li>
-    <li>Experiência Criativa: Inovando em Processos de TI</li>
-    <li>Performance de Sistemas CiberFísicos</li>
+    <li>Arquitetura de Software - Mestrado</li>
+    <li>Gestão - Bacharel</li>
+    <li>Inovação, Empreendedorismo e Liderança - Bacharel</li>
+    <li>Segurança informática - Bacharel</li
 </ul>
 
 <h3 style='font-weight: bold'>Pessoalmente</h3>
