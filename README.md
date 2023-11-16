@@ -1,33 +1,33 @@
-# Olá! Eu sou o Vinícius Kuchnir 👋
+# Hey! I am Vinícius Kuchnir 👋
 
-<h2><i>"A arte de programar consiste em organizar e dominar a complexidade."</i>
+<h2><i>"The art of programming consists of organizing and mastering complexity."</i>
 <p style="font-weight: bold">Edsger W. Dijkstra</p>
 </h2>
 
 <hr>
  
-<h2 style='font-weight: bold'>O que estou aprendendo atualmente</h2>
+<h2 style='font-weight: bold'>What I'm currently learning</h2>
 
 
-<h3 style='font-weight: bold'>(Intercâmbio Acadêmico) ISEP - Instituto Superior de Engenharia do Porto</h3>
+<h3 style='font-weight: bold'>(Academic Exchange) ISEP - Instituto Superior de Engenharia do Porto</h3>
 <ul>
-    <li>Arquitetura de Software - Mestrado</li>
-    <li>Gestão - Bacharel</li>
-    <li>Inovação, Empreendedorismo e Liderança - Bacharel</li>
-    <li>Segurança informática - Bacharel</li
+    <li>Software Architecture - Master's</li>
+    <li>Management - Bachelor</li>
+    <li>Innovation, Entrepreneurship and Leadership - Bachelor</li>
+    <li>Computer Security - Bachelor</li
 </ul>
 
-<h3 style='font-weight: bold'>Pessoalmente</h3>
+<h3 style='font-weight: bold'>What I'm Learning on My Own</h3>
 <ul>
-    <li>React Native</li>
     <li>ReactJS</li>
+    <li>NodeJS</li>
 </ul>
 
-<h2 style='font-weight: bold'>Alguns dados sobre o meu Github</h2>
+<h2 style='font-weight: bold'>Some data about my Github</h2>
 
 ![Vinícius Kuchnir](https://github-readme-stats.vercel.app/api?username=ViniciusKuchnir&show_icons=true&theme=dark)
 
-<h2 style='font-weight: bold'>Tecnologias que já utilizei</h2>
+<h2 style='font-weight: bold'>Technologies I've used</h2>
 
 <div style='display: inline_block'><br/>
     <img aling='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
@@ -41,7 +41,7 @@
     <img aling='center' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
 </div>
 
-<h2 style='font-weight: bold'>Os meus últimos 4 trabalhos públicos</h2>
+<h2 style='font-weight: bold'>My last 4 public works</h2>
 
 <div style='display: inline_block'>
     
@@ -52,7 +52,7 @@
 
 </div>
 
-<h2 style='font-weight: bold'>Meus contatos</h2>
+<h2 style='font-weight: bold'>My contacts</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuskuchnir/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=17atzetnge662&utm_content=cm55ouf)
