@@ -9,12 +9,13 @@
 <h2 style='font-weight: bold'>What I'm currently learning</h2>
 
 
-<h3 style='font-weight: bold'>(Academic Exchange) ISEP - Instituto Superior de Engenharia do Porto</h3>
+<h3 style='font-weight: bold'>PUCPR - Pontifical Catholic University of Paraná</h3>
 <ul>
-    <li>Software Architecture - Master's</li>
-    <li>Management - Bachelor</li>
-    <li>Innovation, Entrepreneurship and Leadership - Bachelor</li>
-    <li>Computer Security - Bachelor</li
+    <li>Software reuse-oriented development</li>
+    <li>Information Technology Governance</li>
+    <li>Management of small and medium IT companies</li>
+    <li>Software Engineering Experimentation</li>
+    <li>Organizational Learning</li>
 </ul>
 
 <h3 style='font-weight: bold'>What I'm Learning on My Own</h3>
