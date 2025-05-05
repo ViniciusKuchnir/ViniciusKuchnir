@@ -11,18 +11,8 @@
 
 <h3 style='font-weight: bold'>PUCPR - Pontifical Catholic University of Paraná</h3>
 <ul>
-    <li>Software reuse-oriented development</li>
-    <li>Information Technology Governance</li>
-    <li>Management of small and medium IT companies</li>
-    <li>Software Engineering Experimentation</li>
-    <li>Organizational Learning</li>
-</ul>
-
-<h3 style='font-weight: bold'>What I'm Learning on My Own</h3>
-<ul>
-    <li>ReactJS</li>
-    <li>NodeJS + NestJS</li>
-    <li>Tests (Jest)</li>
+    <li>Leadership</li>
+    <li>Web Development - Canvas and Game</li>
 </ul>
 
 <h2 style='font-weight: bold'>Some data about my Github</h2>
