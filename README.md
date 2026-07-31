@@ -1,55 +1,254 @@
-# Hey! I am Vinícius Kuchnir 👋
+<div align="center">
 
-<h2><i>"The art of programming consists of organizing and mastering complexity."</i>
-<p style="font-weight: bold">Edsger W. Dijkstra</p>
-</h2>
+# Hi, I'm Vinícius Kuchnir 👋
 
-<hr>
- 
-<h2 style='font-weight: bold'>What I'm currently learning</h2>
+### Full-Stack Software Engineer
 
+I build scalable web applications, enterprise solutions and SaaS products using
+**TypeScript, React, Next.js, Node.js and NestJS**.
 
-<h3 style='font-weight: bold'>PUCPR - Pontifical Catholic University of Paraná</h3>
-<ul>
-    <li>Leadership</li>
-    <li>Web Development - Canvas and Game</li>
-</ul>
-
-<h2 style='font-weight: bold'>Some data about my Github</h2>
-
-![Vinícius Kuchnir](https://github-readme-stats.vercel.app/api?username=ViniciusKuchnir&show_icons=true&theme=dark)
-
-<h2 style='font-weight: bold'>Technologies I've used</h2>
-
-<div style='display: inline_block'><br/>
-    <img aling='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
-    <img aling='center' alt='css3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
-    <img aling='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
-    <img aling='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-    <img aling='center' alt='react native' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-    <img aling='center' alt='MYSQL' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' />
-    <img aling='center' alt='java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
-</div>
-
-<h2 style='font-weight: bold'>My last 4 public works</h2>
-
-<div style='display: inline_block'>
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=Encomenda)](https://github.com/ViniciusKuchnir/Encomenda)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=Kifila)](https://github.com/ViniciusKuchnir/Kifila)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=Financa)](https://github.com/ViniciusKuchnir/Financa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKuchnir&repo=ContaComigo)](https://github.com/ViniciusKuchnir/ContaComigo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius_Kuchnir-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/viniciuskuchnir/)
+[![GitHub](https://img.shields.io/badge/GitHub-ViniciusKuchnir-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ViniciusKuchnir)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:viniciuskuchnirodrigues@gmail.com)
 
 </div>
 
-<h2 style='font-weight: bold'>My contacts</h2>
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuskuchnir/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=17atzetnge662&utm_content=cm55ouf)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541920005277)
+## About Me
 
+I'm a Full-Stack Software Engineer from Brazil with professional experience developing enterprise web applications and process-automation solutions.
 
+I currently work at **Volkswagen do Brasil**, contributing throughout the software development lifecycle—from requirements gathering and architecture design to frontend implementation, backend APIs and database modeling.
 
+One of the solutions I helped develop automated a reporting workflow that previously required almost two weeks of manual consolidation, reducing the processing time to minutes and improving access to operational information.
 
+I hold a Bachelor's degree in Software Engineering from **PUCPR** and completed a six-month academic exchange at the **Polytechnic Institute of Porto — ISEP**, in Portugal.
 
+* 💻 Building full-stack applications with TypeScript
+* 🏗️ Interested in software architecture and distributed systems
+* ⚡ Creating maintainable APIs and reusable frontend components
+* 📚 Exploring microservices, event-driven architecture and cloud computing
+* 🌎 Open to Brazilian and international opportunities
 
+---
+
+## Professional Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Enterprise Applications</h3>
+      <p>
+        Development of internal platforms using React, Next.js, TypeScript,
+        Node.js, REST APIs and relational databases.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Process Automation</h3>
+      <p>
+        Automated reporting workflows that previously required almost two
+        weeks of manual data consolidation.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Reusable Frontend Architecture</h3>
+      <p>
+        Designed a component library with approximately 15–20 reusable
+        components, including forms, tables, cards and charts.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>End-to-End Development</h3>
+      <p>
+        Experience with requirements gathering, architecture, frontend,
+        backend services, database modeling, testing and delivery.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technology Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript, JavaScript" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="React, Next.js, HTML, CSS and Tailwind CSS" />
+</p>
+
+### Backend and APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs" alt="Node.js and NestJS" />
+</p>
+
+* RESTful API design
+* Authentication and authorization
+* JWT access and refresh tokens
+* Role-based access control
+* API versioning
+* Swagger and OpenAPI
+* Event-driven communication
+
+### Databases and Messaging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq" alt="PostgreSQL, MySQL, Redis and RabbitMQ" />
+</p>
+
+### Testing and DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,docker,git,github,githubactions" alt="Jest, Docker, Git, GitHub and GitHub Actions" />
+</p>
+
+* Unit and integration testing
+* End-to-end testing with Cypress
+* Docker and Docker Compose
+* CI/CD fundamentals
+* Git-based development workflows
+
+---
+
+## Featured Projects
+
+### Kifila — Multi-Tenant Queue Management SaaS
+
+A SaaS platform designed for organizations that manage physical service queues across multiple branches.
+
+**Core features**
+
+* Multi-tenant architecture
+* Organizations and branches
+* JWT authentication and persistent sessions
+* Email verification and password recovery
+* Organization invitations
+* Role-based access control
+* Queue services and tickets
+* Ticket priorities and estimated waiting times
+* Modular and versioned REST APIs
+
+**Technologies**
+
+`NestJS` · `TypeScript` · `PostgreSQL` · `TypeORM` · `Docker` · `JWT` · `Jest`
+
+---
+
+### Qualist — Software Quality Audit Management
+
+A full-stack platform for planning, executing and monitoring software-quality audits.
+
+**Core features**
+
+* Reusable audit templates
+* Dynamic checklists
+* Audit execution workflows
+* Authentication and authorization
+* Role-based access control
+* Operational dashboards
+* Email notifications
+* Real-time updates
+* Progress and compliance monitoring
+
+**Technologies**
+
+`React` · `TypeScript` · `NestJS` · `TypeORM` · `MySQL` · `React Query`
+
+---
+
+## Engineering Principles
+
+I aim to build software that is understandable, testable and easy to evolve.
+
+```text
+Clean Architecture          SOLID Principles
+RESTful API Design          Domain Modeling
+Design Patterns             Separation of Concerns
+Event-Driven Architecture   Automated Testing
+Object-Oriented Design      Maintainability
+API Contract Design         Scalability
+```
+
+---
+
+## Education
+
+### Bachelor of Software Engineering
+
+**Pontifical Catholic University of Paraná — PUCPR**
+2021–2025
+
+* Graduated with Academic Excellence
+* Dean's List — three-time recipient
+* Research Assistant — PIBIC
+* Teaching Assistant
+* Nominated for the Clemente Ivo Juliatto Leadership Award
+
+### Academic Exchange in Software Engineering
+
+**Polytechnic Institute of Porto — ISEP, Portugal**
+September 2023–February 2024
+
+---
+
+## Currently Exploring
+
+* Distributed systems
+* Event-driven architecture
+* Microservice reliability patterns
+* Domain-Driven Design
+* Cloud architecture and AWS
+* Observability and monitoring
+* CI/CD and infrastructure automation
+
+---
+
+## What I'm Building
+
+```text
+Multi-tenant SaaS applications
+Event-driven microservices
+Secure authentication systems
+Scalable REST APIs
+Reusable frontend architectures
+Production-oriented backend services
+```
+
+---
+
+## Languages
+
+* Portuguese — Native
+* English — Professional working proficiency
+* Spanish — Basic
+
+---
+
+## Let's Connect
+
+I'm interested in discussing software engineering, full-stack development, architecture, SaaS products and distributed systems.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/viniciuskuchnir/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:viniciuskuchnirodrigues@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+
+### Building software that transforms complex business problems into maintainable solutions.
+
+</div>
